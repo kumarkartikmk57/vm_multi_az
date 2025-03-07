@@ -1,0 +1,5 @@
+instance_name = "terrainstance"
+machine_type = "e2-small"
+instance_count = "3"
+service_account_email = "xxxxxxcompute@developer.gserviceaccount.com"
+dns_domain = "app.wharf.cloud"
